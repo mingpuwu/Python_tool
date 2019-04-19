@@ -1,5 +1,4 @@
 import socket
-#1
 head = [0x0d,0x05]
 enctry = [0x00]
 ver = [0x19]
