@@ -186,5 +186,6 @@ if __name__ =='__main__':
 	send_authchallenge_syc(fd)
 	time.sleep(1)
 	send_wifi_onoff(fd,1)
+	#!!!!!!!!
 
 	run_loop(fd)
